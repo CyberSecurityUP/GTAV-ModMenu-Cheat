@@ -1,0 +1,2 @@
+﻿  dllmain.cpp
+C:\Users\RedTeam\source\repos\GTAModMenu\GTAModMenu\dllmain.cpp(86,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?

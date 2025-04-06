@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Gerando código
+  0 of 1604 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  GTAModMenu.vcxproj -> C:\Users\RedTeam\source\repos\GTAModMenu\x64\Release\GTAModMenu.dll
